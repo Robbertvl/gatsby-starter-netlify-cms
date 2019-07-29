@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Hoofdtitel aangepast
 image: /img/home-jumbotron.jpg
 heading: Test Title
-subheading: Support sustainable farming while enjoying a cup
+subheading: Ondertitel ook
 mainpitch:
   title: Why Kaldi
   description: >
